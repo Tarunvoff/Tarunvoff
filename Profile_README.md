@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 ## 📫 Contact Me
 
 - **Email**: [tarunvoff@gmail.com](mailto:tarunvoff@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
-
+  
 ## 📈 GitHub Stats
 
 ![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunvoff&show_icons=true&theme=radical)
