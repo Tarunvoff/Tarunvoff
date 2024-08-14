@@ -1,27 +1,25 @@
-## Hi there 👋
-
-
 # Hi there 👋 I'm Tarun!
+🔭 **What I Do**:  
+Welcome to my GitHub profile! I'm a passionate developer and continuous learner with a focus on backend development and machine learning. I enjoy turning complex problems into simple, intuitive solutions.
 
-Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who loves to explore new technologies and work on exciting projects.
+💻 **Technologies I Work With**: 
 
-## 🛠️ Technologies & Tools
+- **Programming Languages**: Python, C, Java, C++
+- **Machine Learning**: Linear Regression, XGBoost, and other ML algorithms
+- **Databases**: MySQL, PostgreSQL
+- **APIs**: FastAPI
+- **Frontend**: HTML, CSS, ReactJS
+- **Data Visualization**: Power BI
 
-- **Programming Languages**: Python, JavaScript, C++, etc.
-- **Frameworks**: FastAPI, Django, React, etc.
-- **Tools**: Git, Docker, Kubernetes, etc.
-- **Cloud**: AWS, Azure, Google Cloud
+🚀 **Current Projects**:
 
-## 🌱 Currently Learning
+I'm currently working on an e-commerce website using FastAPI, integrating various ML models, and expanding my skills in Java, C++, and React.
 
-- Advanced Machine Learning Techniques
-- Cloud Native Development
-- WebAssembly
 
-## 💻 My Projects
+🎯 **Goals**:
 
-- [**Hotel Management Analysis**](https://github.com/yourusername/hotel-management-analysis) - A comprehensive analysis of hotel booking data using Python.
-- [**Personal Website**](https://github.com/yourusername/personal-website) - My portfolio website built with React and hosted on GitHub Pages.
+My ambition is to become a Machine Learning Engineer. I'm also focused on learning NLP, deep learning, and computer vision.
+
 
 ## 📫 Contact Me
 
