@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and continuous learner 
 
 💻 **Technologies I Work With**: 
 
-- **Programming Languages**: Python, C, Java, C++
+- **Programming Languages**: Python, C,  C++
 - **Machine Learning**: Linear Regression, XGBoost, and other ML algorithms
 - **Databases**: MySQL, PostgreSQL
 - **APIs**: FastAPI
