@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and continuous learner 
 - **Machine Learning**: Linear Regression, XGBoost, and other ML algorithms
 - **Databases**: MySQL, PostgreSQL
 - **APIs**: FastAPI
-- **Frontend**: HTML, CSS, ReactJS
+- **Frontend**: HTML, CSS,JSS
 - **Data Visualization**: Power BI
 
 🚀 **Current Projects**:
