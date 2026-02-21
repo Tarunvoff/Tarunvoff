@@ -1,25 +1,20 @@
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </p>
 
-<h2 align="center">hey, i'm tarun 👋</h2>
+<h2 align="center">hey, i'm tarun</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Gen+AI+Engineer;ML+Engineer;AI+Security+Enthusiast;Data+Scientist&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=24">
 </p>
 
 <p align="center">
-  🌙 night coder &nbsp;|&nbsp; ☕ caffeine-powered &nbsp;|&nbsp; 🧠 systems > hype
+  night coder &nbsp;|&nbsp; caffeine-powered &nbsp;|&nbsp; systems > hype
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
-
-### 🧠 what i'm about
+### what i'm about
 
 i build **ai systems**, not demos.  
 i care about **how they fail**, not just how they perform.
@@ -40,29 +35,21 @@ currently focused on:
 > building a model is easy  
 > building a **secure, explainable system** is not
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-</p>
-
-### 🧨 things i'm breaking right now
+### things i'm breaking right now
 
 - agentic ai workflows that fail silently  
 - prompt chains that leak context  
-- api systems that *look* reliable but aren’t  
+- api systems that *look* reliable but aren't  
 - trust assumptions in genai tooling  
 - security gaps in llm pipelines  
 
 breaking systems is how i learn.
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
-</p>
-
-### 🛡️ shipping (not talking)
+### shipping (not talking)
 
 **apiris**  
 > contextual api trust & decision framework
@@ -83,27 +70,21 @@ pip install apiris
 - llm-based resume parsing
 - langchain-driven automation
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420"/>
-</p>
+### tech stack
 
-### ⚙️ tools & systems i work with
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, C++, C, JavaScript |
+| **AI/ML** | TensorFlow, PyTorch, LangChain, OpenAI |
+| **Web** | FastAPI, Flask, React, HTML, CSS |
+| **Databases** | MySQL, MongoDB, Redis |
+| **DevOps & Tools** | Docker, AWS, Git, GitHub, Linux |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,docker,aws&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,flask,react,js,html,css&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" />
-</p>
+---
 
-<br/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="420"/>
-</p>
-
-### 🧠 how i think about ai
+### how i think about ai
 
 - ai without security is a liability  
 - trust should be **measured**, not assumed  
@@ -112,9 +93,9 @@ pip install apiris
 
 this is the space i want to work in.
 
-<br/>
+---
 
-### 📡 find me
+### find me
 
 <p align="center">
   <a href="https://github.com/Tarunvoff">
