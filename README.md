@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;GenAI+%26+Agentic+Systems+Builder;Full+Stack+%2B+AI+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/CGPA-8.4-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-4F46E5?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
 <p align="center">
   <a href="https://tarun-portfolio-ai.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -196,12 +201,6 @@ Worked on end-to-end ML pipelines including data preprocessing, model training, 
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarunvoff/Tarunvoff/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <br/>
 
 ## 🎯 Current Focus
@@ -222,9 +221,6 @@ open_to:
   - Research collaborations
   - Hackathons & open-source contributions
 ```
-
-<br/>
-
 ## 📡 Connect
 
 <p align="center">
@@ -234,8 +230,7 @@ open_to:
   &nbsp;&nbsp;
   <a href="https://github.com/Tarunvoff"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 </p>
-
-<br/>
+</br>
 
 <p align="center">
   <i>"Building a model is easy. Building a reliable, explainable, production-ready system is not."</i>
